@@ -10,6 +10,12 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        cyan: "hsl(171, 66%, 44%)",
+        lBlue: "hsl(233, 100%, 69%)",
+        Dcyan: "hsl(171, 66%, 37%)",
+        DlBlue: "hsl(233, 80%, 60%)",
+        dGrayishBlue: "hsl(210, 10%, 33%)",
+        gBlue: "hsl(201, 11%, 66%)"
       },
     },
   },
